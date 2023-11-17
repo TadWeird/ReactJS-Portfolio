@@ -3,6 +3,8 @@ import './App.css'
 import Navibar from './Components/Navibar'
 import Heero from './Components/Heero'
 import MeBout from './Components/MeBout'
+import SnT from './Components/SnT'
+import Portfolio from './Components/Portfolio'
 
 function App() {
   
@@ -12,6 +14,8 @@ function App() {
         <Navibar/>
         <Heero/>
         <MeBout/>
+        <SnT/>
+        <Portfolio/>
     </div>
 
 
