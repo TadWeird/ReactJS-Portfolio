@@ -17,7 +17,7 @@ export default function Portfolio() {
         {/* <!-- Card 1 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175162921203007518/Browser_PH.png?ex=656a3ac1&is=6557c5c1&hm=c60029862dfd45d2425897e57111085ef4dcb972a9f91f8cd4170fef2b3697ac&"
+                src="https://cdn.discordapp.com/attachments/979722130071646259/1175178714770854060/Browser_PH_2.png?ex=656a4977&is=6557d477&hm=3e5cd33cd603c17e7d6ecf963ae409957f10cf6f35d96cb8d86d6f25d2800df3&"
                 alt="Card 1 Image" />
             <a href="https://example.com" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
         </div>
@@ -25,7 +25,7 @@ export default function Portfolio() {
         {/* <!-- Card 2 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175144404055494806/CSS1.png?ex=656a2983&is=6557b483&hm=7e10e3ca4a6aaf7920acec00864bb4c04486d6c74059e8966d5a92e7240cfa14&"
+                src="https://cdn.discordapp.com/attachments/979722130071646259/1175178714770854060/Browser_PH_2.png?ex=656a4977&is=6557d477&hm=3e5cd33cd603c17e7d6ecf963ae409957f10cf6f35d96cb8d86d6f25d2800df3&"
                 alt="Card 2 Image" />
             <a href="https://example.com" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
         </div>
@@ -33,7 +33,7 @@ export default function Portfolio() {
         {/* <!-- Card 3 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175144404416217099/HTML5.png?ex=656a2983&is=6557b483&hm=4bcce3f984d2a8e032cec78b33a1b4f711079bd9179c0251f9a1cdefea2ad876&"
+                src="https://cdn.discordapp.com/attachments/979722130071646259/1175178714770854060/Browser_PH_2.png?ex=656a4977&is=6557d477&hm=3e5cd33cd603c17e7d6ecf963ae409957f10cf6f35d96cb8d86d6f25d2800df3&"
                 alt="Card 3 Image" />
             <a href="https://example.com" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
         </div>
@@ -41,7 +41,7 @@ export default function Portfolio() {
         {/* <!-- Card 4 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175144405171196014/javascript1.png?ex=656a2983&is=6557b483&hm=456f3125356ce5fdf66074ddb95bdaa7a1fdeb18e296a96b351b05caaea7e1f4&"
+                src="https://cdn.discordapp.com/attachments/979722130071646259/1175178714770854060/Browser_PH_2.png?ex=656a4977&is=6557d477&hm=3e5cd33cd603c17e7d6ecf963ae409957f10cf6f35d96cb8d86d6f25d2800df3&"
                 alt="Card 4 Image" />
             <a href="https://example.com" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
         </div>
