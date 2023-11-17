@@ -17,7 +17,7 @@ export default function Portfolio() {
         {/* <!-- Card 1 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175144403749326878/PY1.png?ex=656a2982&is=6557b482&hm=1d463f1367a7d85670542e249ec4d4993ff589a44a26ca1cc4eda7174e3ea2d2&"
+                src="https://cdn.discordapp.com/attachments/979722130071646259/1175162921203007518/Browser_PH.png?ex=656a3ac1&is=6557c5c1&hm=c60029862dfd45d2425897e57111085ef4dcb972a9f91f8cd4170fef2b3697ac&"
                 alt="Card 1 Image" />
             <a href="https://example.com" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
         </div>
