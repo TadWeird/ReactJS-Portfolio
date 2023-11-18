@@ -5,16 +5,21 @@ import { Link, animateScroll as scroll } from 'react-scroll';
 export default function Portfolio() {
   return (
 
-    <body id="port" class="bg-gradient-to-r from-rose-100 to-teal-100 min-h-screen flex flex-col items-center justify-center md:py-32">
+<body id="port" class="bg-gradient-to-r from-rose-100 to-teal-100 min-h-screen flex flex-col items-center justify-center md:py-32 sm:py-16 py-8">
 
-    <div  class="text-center mb-8">
-        <h2 class="tracking-tight font-extrabold text-transparent text-7xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500 md:py-2.5 ">Projects n' Portfolios!</h2>
-        <p class="text-3xl leading-relaxed dark:text-gray-300">
-            "Here are some of the works that I have made and collaborated with"
-        </p>
-    </div>
+{/* <div class="text-center">
+    <h2 class="tracking-tight font-extrabold text-transparent text-7xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500 md:py-2.5">Projects n' Portfolios!</h2>
+    <p class="text-3xl leading-relaxed dark:text-gray-300">
+        "Here are some of the works that I have made and collaborated with"
+    </p>
+</div> */}
 
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-4 md:px-32 w-1/2">
+<div class="md:px-32 w-11/12">
+    <h1 class=" pt-24 pb-10 font-bold text-transparent text-6xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500 text-center"> Projects & Portfolios </h1>
+    <p class=" pt-1 pb-10 text-3xl text-gray-700 text-center"> "Here are some of the works that I have made and collaborated with" </p>
+</div>
+
+<div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-5 md:px-32 w-9/12">
         {/* <!-- Card 1 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
