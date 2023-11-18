@@ -13,11 +13,12 @@ function Heero() {
                 class="pt-24 font-extrabold text-transparent text-7xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500">
                 Welcome To My Profile!
             </h1>
-            <p class="mb-8 md:pl-0 text-3xl pl-2 pr-2 py-16 leading-relaxed dark:text-gray-300">
-            "Knowing That Defeat Does Not Mean Failure, But Knowing It As A Stepping Stone"
-            </p>
+            <h1
+                class="py-12 font-bold text-transparent text-6xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500">
+                My Name Is Jaime D. Maliwat Jr!
+            </h1>
             <p class="mb-8 md:pl-0 text-3xl pl-2 pr-2 leading-relaxed dark:text-gray-300">
-            "I'm an Aspiring Front End Developer and Data Analyst. Explore my portfolio through its design and web solution integration using UI/UX!"
+            "I'm an Aspiring Front End Developer, UI / UX Designer and Data Analyst. Explore my portfolio through its design and web solution integration!"
             </p>
             <a href="https://github.com/TadWeird" class="mt-4 block text-center bg-indigo-500 text-white p-4 rounded-md hover:bg-indigo-600 transition duration-300 font-bold">Check My GitHub!</a>
         </div>

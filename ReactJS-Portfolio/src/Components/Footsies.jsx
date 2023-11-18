@@ -29,17 +29,6 @@ export default function Footsies() {
                       </li>
                   </ul>
               </div>
-              <div>
-                  <h2 class="mb-6 text-sm font-semibold text-white uppercase dark:text-white ">Legal</h2>
-                  <ul class="text-plopnpurple-300 font-medium">
-                      <li class="mb-4">
-                          <a href="#" class="hover:text-white">Privacy Policy</a>
-                      </li>
-                      <li>
-                          <a href="#" class="hover:text-white">Terms & Conditions</a>
-                      </li>
-                  </ul>
-              </div>
           </div>
       </div>
       <hr class="my-6 border-gray-100 sm:mx-auto dark:border-white lg:my-8" />
