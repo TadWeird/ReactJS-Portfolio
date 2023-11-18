@@ -3,6 +3,6 @@
 
 ## Before doing command <sub>npm run dev</sub> install these first
 
-## <sub>npm install</sub>
-## <sub>npm install flowbite</sub>
-## <sub>npm install react scroll</sub>
+## 'npm install'
+## 'npm install flowbite'
+## 'npm install react scroll'
