@@ -5,7 +5,7 @@ import { Link, animateScroll as scroll } from 'react-scroll';
 export default function Portfolio() {
   return (
 
-    <body id="port" class="bg-gradient-to-r from-rose-100 to-teal-100 min-h-screen flex flex-col items-center justify-center md:py-60">
+    <body id="port" class="bg-gradient-to-r from-rose-100 to-teal-100 min-h-screen flex flex-col items-center justify-center md:py-32">
 
     <div  class="text-center mb-8">
         <h2 class="tracking-tight font-extrabold text-transparent text-7xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500 md:py-2.5 ">Projects n' Portfolios!</h2>
