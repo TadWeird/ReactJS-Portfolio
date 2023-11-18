@@ -5,4 +5,4 @@
 
 'npm install'
 'npm install flowbite'
-'npm install react scroll'
+'npm install react-scroll'
