@@ -5,6 +5,7 @@ import Heero from './Components/Heero'
 import MeBout from './Components/MeBout'
 import SnT from './Components/SnT'
 import Portfolio from './Components/Portfolio'
+import Footsies from './Components/Footsies'
 
 function App() {
   
@@ -16,11 +17,8 @@ function App() {
         <MeBout/>
         <SnT/>
         <Portfolio/>
+        <Footsies/>
     </div>
-
-
-
-
   )
 }
 

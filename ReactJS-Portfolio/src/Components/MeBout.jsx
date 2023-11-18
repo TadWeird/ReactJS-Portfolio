@@ -1,10 +1,11 @@
 import React from 'react'
 import 'flowbite';
+import { Link, animateScroll as scroll } from 'react-scroll';
 
 export default function MeBout() {
   return (
-    <section class="bg-white dark:bg-gray-900">
-  <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+    <section class="bg-white dark:bg-gray-900 md:py-48">
+  <div id="me" class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
       <h2 class="mb-8 tracking-tight font-extrabold text-transparent text-7xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500">About Me!</h2>
       <div class="grid pt-8 text-left border-t border-gray-200 md:gap-16 dark:border-gray-700 md:grid-cols-2">
           <div>

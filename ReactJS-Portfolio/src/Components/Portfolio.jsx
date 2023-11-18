@@ -1,12 +1,13 @@
 import React from 'react'
 import 'flowbite';
+import { Link, animateScroll as scroll } from 'react-scroll';
 
 export default function Portfolio() {
   return (
 
-    <body class="bg-gradient-to-r from-rose-100 to-teal-100 min-h-screen flex flex-col items-center justify-center md:py-60">
+    <body id="port" class="bg-gradient-to-r from-rose-100 to-teal-100 min-h-screen flex flex-col items-center justify-center md:py-60">
 
-    <div class="text-center mb-8">
+    <div  class="text-center mb-8">
         <h2 class="tracking-tight font-extrabold text-transparent text-7xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500 md:py-2.5 ">Projects n' Portfolios!</h2>
         <p class="text-3xl leading-relaxed dark:text-gray-300">
             "Here are some of the works that I have made and collaborated with"
@@ -17,32 +18,36 @@ export default function Portfolio() {
         {/* <!-- Card 1 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175178714770854060/Browser_PH_2.png?ex=656a4977&is=6557d477&hm=3e5cd33cd603c17e7d6ecf963ae409957f10cf6f35d96cb8d86d6f25d2800df3&"
+                src="https://media.discordapp.net/attachments/979722130071646259/1175415234865938524/Browser_PD.png?ex=656b25be&is=6558b0be&hm=691268a7a25c3b558786f6c0ae7985da99ac35ff79bf1d308c282d0feec37d3b&=&width=890&height=676"
                 alt="Card 1 Image" />
-            <a href="https://example.com" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
+            <p class="font-bold text-plopnpurple-300">Website Profile CSS and HTML</p>
+            <a href="https://tadweird.github.io/Portfolio_SoftDev/" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
         </div>
 
         {/* <!-- Card 2 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175178714770854060/Browser_PH_2.png?ex=656a4977&is=6557d477&hm=3e5cd33cd603c17e7d6ecf963ae409957f10cf6f35d96cb8d86d6f25d2800df3&"
+                src="https://media.discordapp.net/attachments/979722130071646259/1175415235167932536/Browser_CH.png?ex=656b25be&is=6558b0be&hm=4c6927fea2c627894c7575b78771bf1ed10f05f7bdad1b057a3fb85889529528&=&width=890&height=676"
                 alt="Card 2 Image" />
+            <p class="font-bold text-plopnpurple-300">Cyrpto Hunters</p>
             <a href="https://example.com" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
         </div>
 
         {/* <!-- Card 3 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175178714770854060/Browser_PH_2.png?ex=656a4977&is=6557d477&hm=3e5cd33cd603c17e7d6ecf963ae409957f10cf6f35d96cb8d86d6f25d2800df3&"
+                src="https://media.discordapp.net/attachments/979722130071646259/1175416852189552650/Browser_PH_2.png?ex=656b273f&is=6558b23f&hm=89ce49609bb3d08e2da8cfbd7b6775bcb5978d29781cfb066473b34021911eff&=&width=890&height=676"
                 alt="Card 3 Image" />
+            <p class="font-bold text-plopnpurple-300">Website 3</p>
             <a href="https://example.com" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
         </div>
 
         {/* <!-- Card 4 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175178714770854060/Browser_PH_2.png?ex=656a4977&is=6557d477&hm=3e5cd33cd603c17e7d6ecf963ae409957f10cf6f35d96cb8d86d6f25d2800df3&"
+                src="https://media.discordapp.net/attachments/979722130071646259/1175416852189552650/Browser_PH_2.png?ex=656b273f&is=6558b23f&hm=89ce49609bb3d08e2da8cfbd7b6775bcb5978d29781cfb066473b34021911eff&=&width=890&height=676"
                 alt="Card 4 Image" />
+            <p class="font-bold text-plopnpurple-300">Website 4</p>
             <a href="https://example.com" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
         </div>
     </div>
