@@ -2,9 +2,11 @@ import React from 'react'
 import 'flowbite';
 import { Link, animateScroll as scroll } from 'react-scroll';
 
+{/* <Favicon url={pn_logo}/>
+import pn_logo from '../assets/pn_logo.png' */}
 function Heero() {
   return (
-
+    
     <section id="hero" class="bg-gradient-to-r from-rose-100 to-teal-100">
     <div class="container mx-auto flex md:px-24 md:py-24  md:flex-row flex-col items-center">
         <div
