@@ -19,7 +19,7 @@ export default function SnT() {
         <p class=" pt-1 pb-10 text-3xl text-gray-700 text-center"> "Here Are Some Of The Languages And Platforms I am Currently Learning For My Career" </p>
     </div>
 
-    <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-4 md:px-32 w-9/12">
+    <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-5 xl:grid-cols-3 gap-5 md:px-32 w-9/12">
 
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"

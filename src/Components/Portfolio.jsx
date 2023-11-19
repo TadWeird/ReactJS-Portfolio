@@ -19,7 +19,7 @@ export default function Portfolio() {
     <p class=" pt-1 pb-10 text-3xl text-gray-700 text-center"> "Here are some of the works that I have made and collaborated with" </p>
 </div>
 
-<div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-5 md:px-32 w-9/12">
+<div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 gap-5 md:px-32 w-9/12">
         {/* <!-- Card 1 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
