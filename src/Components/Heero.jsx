@@ -15,7 +15,7 @@ function Heero() {
                 Welcome To My Profile!
             </h1>
             <h1
-                class="py-12 px-5 font-bold text-transparent text-5xl md:text-5xl lg:text-5xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500">
+                class="py-16 px-5 font-bold text-transparent text-5xl md:text-5xl lg:text-5xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500">
                 My Name Is Jaime D. Maliwat Jr!
             </h1>
             <p class="mb-8 md:pl-0 text-2xl pl-2 pr-2 md:text-base lg:text-2xl leading-relaxed text-gray-500">
