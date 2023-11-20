@@ -2,8 +2,6 @@ import React from 'react'
 import 'flowbite';
 import { Link, animateScroll as scroll } from 'react-scroll';
 
-{/* <Favicon url={pn_logo}/>
-import pn_logo from '../assets/pn_logo.png' */}
 function Heero() {
   return (
     
