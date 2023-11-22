@@ -2,4 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 ::-webkit-scrollbar{display: none}
+::-moz-scrollbar{display: none}
 ::-webkit-scrollbar{scroll-behavior: smooth;}
