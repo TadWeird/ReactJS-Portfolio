@@ -6,15 +6,15 @@ export default function Footsies() {
     
 
 <footer id="foot" class="bg-gradient-to-r from-indigo-500 to-purple-500">
-    <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
+    <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8 lg:px-8">
         <div class="md:flex md:justify-between">
           <div class="mb-6 md:mb-0">
-              <a href="https://flowbite.com/" class="flex items-center">
+              <a href="https://github.com/TadWeird" class="flex items-center">
                   <img src="https://cdn.discordapp.com/attachments/979722130071646259/1173639062138134620/pn_pronounced_logo.png?ex=6564af8d&is=65523a8d&hm=9b1a4888357d4c1813d58c4797bb0b039e75d665b13f73228fb03e77c4669d48&" class="h-8 me-3" alt="FlowBite Logo" />
                   <span class="self-center text-2xl font-semibold whitespace-nowrap text-white">PLOPN</span>
               </a>
           </div>
-          <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
+          <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-1">
               <div>
                   <h2 class="mb-6 text-sm font-semibold text-white uppercase dark:text-white">Let's Talk!</h2>
                   <ul class="text-plopnpurple-300 font-medium">
@@ -61,10 +61,6 @@ export default function Footsies() {
                   </svg>
                   <span class="sr-only">GitHub account</span>
               </a>
-              {/* <a class="text-plopnpurple-300 hover:text-white dark:hover:text-white ms-5 transition-colors duration-200">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 icon icon-tabler icon-tabler-brand-gmail" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"> <path stroke="none" d="M0 0h24v24H0z" fill="none"/> <path d="M16 20h3a1 1 0 0 0 1 -1v-14a1 1 0 0 0 -1 -1h-3v16z" /> <path d="M5 20h3v-16h-3a1 1 0 0 0 -1 1v14a1 1 0 0 0 1 1z" /> <path d="M16 4l-4 4l-4 -4" /> <path d="M4 6.5l8 7.5l8 -7.5" /> </svg>
-                  <span class="sr-only">Google Email</span>
-              </a> */}
           </div>
       </div>
     </div>
