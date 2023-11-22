@@ -21,8 +21,8 @@ export default function Portfolio() {
 
 <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 gap-5 md:px-32 w-9/12">
         {/* <!-- Card 1 --> */}
-        <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
-            <img class="w-full h-auto object-cover mb-2"
+        <div class="bg-white p-4 rounded-t-xl rounded-b-lg shadow-md transform transition-transform hover:scale-105">
+            <img class="w-full h-auto object-cover mb-2 rounded-t-xl" 
                 src="https://media.discordapp.net/attachments/979722130071646259/1175415234865938524/Browser_PD.png?ex=656b25be&is=6558b0be&hm=691268a7a25c3b558786f6c0ae7985da99ac35ff79bf1d308c282d0feec37d3b&=&width=890&height=676"
                 alt="Card 1 Image" />
             <p class="font-bold text-plopnpurple-300">Website Profile CSS and HTML</p>
@@ -30,8 +30,8 @@ export default function Portfolio() {
         </div>
 
         {/* <!-- Card 2 --> */}
-        <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
-            <img class="w-full h-auto object-cover mb-2"
+        <div class="bg-white p-4 rounded-t-xl rounded-b-lg shadow-md transform transition-transform hover:scale-105">
+            <img class="w-full h-auto object-cover mb-2 rounded-t-xl"
                 src="https://media.discordapp.net/attachments/979722130071646259/1175415235167932536/Browser_CH.png?ex=656b25be&is=6558b0be&hm=4c6927fea2c627894c7575b78771bf1ed10f05f7bdad1b057a3fb85889529528&=&width=890&height=676"
                 alt="Card 2 Image" />
             <p class="font-bold text-plopnpurple-300">Cyrpto Hunters</p>
@@ -39,8 +39,8 @@ export default function Portfolio() {
         </div>
 
         {/* <!-- Card 3 --> */}
-        <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
-            <img class="w-full h-auto object-cover mb-2"
+        <div class="bg-white p-4 rounded-t-xl rounded-b-lg shadow-md transform transition-transform hover:scale-105">
+            <img class="w-full h-auto object-cover mb-2 rounded-t-xl"
                 src="https://cdn.discordapp.com/attachments/979722130071646259/1176800242528686160/Browser-SRC.png?ex=65702fa1&is=655dbaa1&hm=99b3637a82bc3e14b975426ca98bfc9804abc50690cacee7a279d567142f89b3&"
                 alt="Card 3 Image" />
             <p class="font-bold text-plopnpurple-300">Simple React Js Calculator</p>
@@ -48,8 +48,8 @@ export default function Portfolio() {
         </div>
 
         {/* <!-- Card 4 --> */}
-        <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
-            <img class="w-full h-auto object-cover mb-2"
+        <div class="bg-white p-4 rounded-t-xl rounded-b-lg shadow-md transform transition-transform hover:scale-105">
+            <img class="w-full h-auto object-cover mb-2 rounded-t-xl"
                 src="https://media.discordapp.net/attachments/979722130071646259/1175416852189552650/Browser_PH_2.png?ex=656b273f&is=6558b23f&hm=89ce49609bb3d08e2da8cfbd7b6775bcb5978d29781cfb066473b34021911eff&=&width=890&height=676"
                 alt="Card 4 Image" />
             <p class="font-bold text-plopnpurple-300">Website 4</p>
