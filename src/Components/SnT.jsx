@@ -1,18 +1,10 @@
 import React from 'react'
 import { Link, animateScroll as scroll } from 'react-scroll';
-// import 'flowbite';
 
 export default function SnT() {
   return (
 
     <body id="skills" class="bg-gradient-to-r from-rose-100 to-teal-100 min-h-screen flex flex-col items-center justify-center md:px-4 md:py-4">
-
-    {/* <div class="text-center px-4 md:py-4">
-        <h2  class="font-extrabold text-transparent text-6xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500 md:py- ">Skills And Technology</h2>
-        <p class="text-3xl leading-relaxed dark:text-gray-300">
-            "Here Are Some Of The Languages And Platforms I am Currently Learning For My Career!"
-        </p>
-    </div> */}
 
     <div class="md:px-32 w-11/12">
         <h1 class=" pt-24 pb-10 font-bold text-transparent text-6xl bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-500 text-center"> Skills & Technology </h1>
@@ -59,7 +51,7 @@ export default function SnT() {
     </div>
 </body>
 
-//  <body class="bg-gradient-to-r from-rose-100 to-teal-100 min-h-screen flex flex-col items-center justify-center md:py-60">
+
 
     
 //     {/* <div class="text-center mb-8">
@@ -114,6 +106,7 @@ export default function SnT() {
     //     </div>
     // </div>
 // </body> 
+
 //     <body class="bg-gradient-to-r from-rose-100 to-teal-100 min-h-screen flex flex-col items-center justify-center md:py-60">
 
 //     <div class="text-center mb-8">
