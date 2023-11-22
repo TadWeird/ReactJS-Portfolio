@@ -41,10 +41,10 @@ export default function Portfolio() {
         {/* <!-- Card 3 --> */}
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://media.discordapp.net/attachments/979722130071646259/1175416852189552650/Browser_PH_2.png?ex=656b273f&is=6558b23f&hm=89ce49609bb3d08e2da8cfbd7b6775bcb5978d29781cfb066473b34021911eff&=&width=890&height=676"
+                src="https://cdn.discordapp.com/attachments/979722130071646259/1176800242528686160/Browser-SRC.png?ex=65702fa1&is=655dbaa1&hm=99b3637a82bc3e14b975426ca98bfc9804abc50690cacee7a279d567142f89b3&"
                 alt="Card 3 Image" />
-            <p class="font-bold text-plopnpurple-300">Website 3</p>
-            <a href="https://example.com" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
+            <p class="font-bold text-plopnpurple-300">Simple React Js Calculator</p>
+            <a href="#" class="mt-4 block text-center bg-indigo-500 text-white p-2 rounded-md hover:bg-indigo-600 transition duration-300">Visit Website</a>
         </div>
 
         {/* <!-- Card 4 --> */}
