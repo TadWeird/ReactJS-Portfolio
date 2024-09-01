@@ -1,4 +1,10 @@
 import React from 'react'
+import html_logo from '../assets/showcase/HTML5.png'
+import css_logo from '../assets/showcase/css3.png'
+import cpp_logo from '../assets/showcase/cpp.png'
+import java_logo from '../assets/showcase/java.png'
+import js_logo from '../assets/showcase/js.png'
+import py_logo from '../assets/showcase/py.png'
 import { Link, animateScroll as scroll } from 'react-scroll';
 
 export default function SnT() {
@@ -15,37 +21,37 @@ export default function SnT() {
 
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175144403749326878/PY1.png?ex=656a2982&is=6557b482&hm=1d463f1367a7d85670542e249ec4d4993ff589a44a26ca1cc4eda7174e3ea2d2&"
+                src={html_logo}
                 alt="Card 1 Image" />
         </div>
 
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175144404055494806/CSS1.png?ex=656a2983&is=6557b483&hm=7e10e3ca4a6aaf7920acec00864bb4c04486d6c74059e8966d5a92e7240cfa14&"
+                src={css_logo}
                 alt="Card 2 Image" />
         </div>
 
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175144404416217099/HTML5.png?ex=656a2983&is=6557b483&hm=4bcce3f984d2a8e032cec78b33a1b4f711079bd9179c0251f9a1cdefea2ad876&"
+                src={cpp_logo}
                 alt="Card 3 Image" />
         </div>
 
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175144405171196014/javascript1.png?ex=656a2983&is=6557b483&hm=456f3125356ce5fdf66074ddb95bdaa7a1fdeb18e296a96b351b05caaea7e1f4&"
+                src={java_logo}
                 alt="Card 4 Image" />
         </div>
 
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175144404722389052/JAVA1.png?ex=656a2983&is=6557b483&hm=819ea26f27a035b19ca0308654c9e0e214d11fe7d02ad4d3b51723599347555c&"
+                src={js_logo}
                 alt="Card 5 Image" />
         </div>
 
         <div class="bg-white p-4 rounded-lg shadow-md transform transition-transform hover:scale-105">
             <img class="w-full h-auto object-cover mb-2"
-                src="https://cdn.discordapp.com/attachments/979722130071646259/1175147175068586085/React-icon.png?ex=656a2c17&is=6557b717&hm=85dcfdd69ce3b1adc32d205aa0a7a5c16323b4e0925d2f03597d491bd34f4ebe&"
+                src={py_logo}
                 alt="Card 5 Image" />
         </div>
     </div>
