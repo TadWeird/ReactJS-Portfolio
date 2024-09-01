@@ -20,19 +20,19 @@ function Navibar() {
       <ul class="font-medium flex flex-col p-4 md:p-0 mt-4 border border-white rounded-lg md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 dark:bg-white md:dark:bg-white dark:border-white">
 
         <li>
-          <a href="#hero" class="block py-2 px-3 transition-colors duration-200 hover:bg-white md:hover:bg-transparent md:border-0 md:hover:text-gray-100 md:p-0 text-plopnpurple-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-100 dark:hover:text-white md:dark:hover:bg-transparent">Home</a>
+          <a href="#hero" class="block py-2 px-3 transition-colors duration-200 hover:bg-white md:hover:bg-transparent md:border-0 md:hover:text-gray-100 md:p-0 text-plopnpurple-300 md:dark:hover:text-blue-500 dark:hover:bg-gray-100 dark:hover:text-white md:dark:hover:bg-transparent">Home</a>
         </li>
         <li>
-          <a href="#me" class="block py-2 px-3 transition-colors duration-200 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-100 md:p-0 text-plopnpurple-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-100 dark:hover:text-white md:dark:hover:bg-transparent">About Me</a>
+          <a href="#me" class="block py-2 px-3 transition-colors duration-200 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-100 md:p-0 text-plopnpurple-300 md:dark:hover:text-blue-500 dark:hover:bg-gray-100 dark:hover:text-white md:dark:hover:bg-transparent">About Me</a>
         </li>
         <li>
-          <a href="#skills" class="block py-2 px-3 transition-colors duration-200 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-100 md:p-0 text-plopnpurple-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-100 dark:hover:text-white md:dark:hover:bg-transparent">Skills And Technologies</a>
+          <a href="#skills" class="block py-2 px-3 transition-colors duration-200 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-100 md:p-0 text-plopnpurple-300 md:dark:hover:text-blue-500 dark:hover:bg-gray-100 dark:hover:text-white md:dark:hover:bg-transparent">Skills And Technologies</a>
         </li>
         <li>
-          <a href="#port" class="block py-2 px-3 transition-colors duration-200 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-100 md:p-0 text-plopnpurple-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-100 dark:hover:text-white md:dark:hover:bg-transparent">Portfolio</a>
+          <a href="#port" class="block py-2 px-3 transition-colors duration-200 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-100 md:p-0 text-plopnpurple-300 md:dark:hover:text-blue-500 dark:hover:bg-gray-100 dark:hover:text-white md:dark:hover:bg-transparent">Portfolio</a>
         </li>
         <li>
-          <a href="#foot" class="block py-2 px-3 transition-colors duration-200 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-100 md:p-0 text-plopnpurple-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-100 dark:hover:text-white md:dark:hover:bg-transparent">Let's Talk</a>
+          <a href="#foot" class="block py-2 px-3 transition-colors duration-200 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-100 md:p-0 text-plopnpurple-300 md:dark:hover:text-blue-500 dark:hover:bg-gray-100 dark:hover:text-white md:dark:hover:bg-transparent">Let's Talk</a>
         </li>
       </ul>
     </div>
