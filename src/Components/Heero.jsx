@@ -1,5 +1,6 @@
 import React from 'react'
 import 'flowbite';
+import pic_pn from '../assets/others/ME.jpg';
 import { Link, animateScroll as scroll } from 'react-scroll';
 
 function Heero() {
@@ -27,7 +28,7 @@ function Heero() {
         {/* lg:max-w-lg lg:w-full */}
 
         <div class=" flex flex-col mb-5 md:mb-0 w-4/6 sm:w-6/12 md:w-11/12 lg:w-10/12 xl:w-full  py-10">
-            <img class="object-cover object-center rounded-lg shadow-lg shadow-purple-500/25" alt="hero" src="https://media.discordapp.net/attachments/1092111217230880869/1175091469028175882/ME.JPG?ex=6569f836&is=65578336&hm=6bd1d16704ed1ae0cadedc50c3220a2d44350fdf4c71c3bf723d5534732c7800&=&width=676&height=676"/>
+            <img class="object-cover object-center rounded-lg shadow-lg shadow-purple-500/25" alt="hero" src={pic_pn}/>
         </div>
     </div>
 </section>

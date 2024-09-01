@@ -14,7 +14,7 @@ export default function MeBout() {
                       <svg class="flex-shrink-0 mr-2 w-5 h-5 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path></svg>
                       Who am I?
                   </h3>
-                  <p class="text-gray-500 dark:text-gray-400">I'm an Aspiring Full Stack Web Developer and Data Analyst. Explore my portfolio through its design and web solution integration using UI/UX! Also! I'm Jaime (Also Known As PlopN) A currently studying the Bachelors in Computer Engineering! Basically just a human person trying to see the wonders of technology and what goes underneath the Interfaces!
+                  <p class="text-gray-500 dark:text-gray-400">I'm an Aspiring Web Developer and Data Analyst. Explore my portfolio through its design and web solution integration using UI/UX! Also! I'm Jaime (Also Known As PlopN) A recent graduate for Bachelors in Computer Engineering! Basically just a human person trying to see the wonders of technology and what goes underneath the Interfaces!
                 </p>
               </div>
               <div class="mb-10">                        
